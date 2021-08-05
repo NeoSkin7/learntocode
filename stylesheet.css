@@ -119,7 +119,7 @@ footer {
 
 /* Global Component Styles */
 
-button {
+button, #back-link {
   color: white;
   background-color: #ED4B56;
   padding: .7em 1.2em;
@@ -132,7 +132,7 @@ button {
   font-weight: 550;
 }
 
-button:hover, button:focus, button:active {
+button:hover, #back-link:hover, button:focus, #back-link:focus, button:active, #back-link:active {
   background-color: #f04444;
 }
 
