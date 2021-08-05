@@ -2,7 +2,7 @@
   "name": "LearnToCode",
   "short_name": "LearnToCode",
   "description": "LearnToCode with our simple courses that cover the basics and complexities of a variety of languages.",
-  "start_url": "https://learn-tocode.000webhostapp.com",
+  "start_url": "https://learn-tocode.netlify.app/",
   "scope": "/",
   "display": "standalone",
   "orientation": "any",
