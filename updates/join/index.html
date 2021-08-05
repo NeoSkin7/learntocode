@@ -141,20 +141,23 @@
         Stay
         <span class="accent-text">updated</span>.
       </h1>
-      <form data-netlify="true" method="POST" enctype="multipart/form-data" class="right-form">
+      <form data-netlify="true" action="/updates/join/success/" method="POST" enctype="multipart/form-data"
+        class="right-form">
         <label>
           <h1>Get email updates</h1>
         </label>
         <div class="input-group">
-          <label>Name:</label>
-          <input type="text" required>
+          <label>Name:
+            <input type="text" required>
+          </label>
         </div>
         <div class="input-group">
-          <label>Email:</label>
-          <input type="email" required>
+          <label>Email:
+            <input type="email" required>
+          </label>
         </div>
         <div class="input-group">
-          <button type="submit" onclick="window.location.href='success/';">Sign Up</button>
+          <button type="submit">Sign Up</button>
         </div>
       </form>
     </main>
