@@ -348,9 +348,7 @@ table td {
 .social-link img {
   width: 1.7em;
   margin-right: .25em;
-  vertical-align: text-top;
-  text-align: center;
-  margin: auto;
+  vertical-align: bottom;
 }
 
 .social-link:hover img, .social-link:focus img, .social-link:active img {
