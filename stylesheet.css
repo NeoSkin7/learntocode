@@ -130,6 +130,8 @@ button, #back-link {
   font-size: 1.3rem;
   margin-top: .5em;
   font-weight: 550;
+  text-decoration: none;
+  display: inline-block;
 }
 
 button:hover, #back-link:hover, button:focus, #back-link:focus, button:active, #back-link:active {
