@@ -388,6 +388,7 @@ table td {
   color: inherit;
   border-radius: .5em;
   font: inherit;
+  width: 100%;
 }
 
 .right-form .input-group input:focus {
