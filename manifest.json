@@ -1,0 +1,109 @@
+{
+  "name": "LearnToCode",
+  "short_name": "LearnToCode",
+  "description": "LearnToCode with our simple courses that cover the basics and complexities of a variety of languages.",
+  "start_url": "https://learn-tocode.000webhostapp.com",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "lang": "en",
+  "background_color": "#2F303A",
+  "theme_color": "#ED4B56",
+  "categories": [
+    "coding",
+    "education",
+    "learn"
+  ],
+  "shortcuts": [
+    {
+      "name": "View Courses",
+      "short_name": "Courses",
+      "description": "View a list of our courses.",
+      "url": "/courses/",
+      "icons": [
+        {
+          "src": "/images/courses.png",
+          "sizes": "192x192",
+          "type": "image/png",
+          "purpose": "any maskable"
+        }
+      ]
+    },
+    {
+      "name": "Home",
+      "short_name": "Home",
+      "description": "The Homepage.",
+      "url": "/",
+      "icons": [
+        {
+          "src": "/images/home.png",
+          "sizes": "192x192",
+          "type": "image/png",
+          "purpose": "any maskable"
+        }
+      ]
+    },
+    {
+      "name": "Recent Updates",
+      "short_name": "Updates",
+      "description": "View recent updates.",
+      "url": "/updates/",
+      "icons": [
+        {
+          "src": "/images/updates.png",
+          "sizes": "192x192",
+          "type": "image/png",
+          "purpose": "any maskable"
+        }
+      ]
+    },
+    {
+      "name": "Code Archive",
+      "short_name": "Code Archive",
+      "description": "View example projects in our code archive.",
+      "url": "/archive/",
+      "icons": [
+        {
+          "src": "/images/archive.png",
+          "sizes": "192x192",
+          "type": "image/png",
+          "purpose": "any maskable"
+        }
+      ]
+    }
+  ],
+  "icons": [
+    {
+      "src": "_icons/manifest-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "_icons/manifest-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "images/logo.svg",
+      "sizes": "16x16 32x32 48x48 72x72 96x96 128x128 256x256",
+      "type": "image/svg",
+      "purpose": "maskable any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "images/screenshot1.webp",
+      "sizes": "1280x720",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "images/screenshot2.webp",
+      "sizes": "1280x720",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    }
+  ]
+}
