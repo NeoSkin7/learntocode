@@ -4,7 +4,30 @@ Welcome to the home of the LearnToCode project storage, this is where all files 
 
 Records below begun on 05/08/2021 (UTC) when website was migrated to new servers.
 
-If you wish to contribute, please contact [NeoSki](https://linktr.ee/NeoSki).
+## Contents
+
+* Beta Pages
+* Version History
+  * Beta Pages
+* Project Technologies
+* Project Services
+* Contributing
+* Feedback
+* Project Contributors
+* File Structure
+* Instructions For Forking
+
+## Beta Pages
+
+NAFP - Not Available for Public
+
+* Website Development Courses
+  * HTML Essentials (Release Preview)
+  * CSS Essentials (Pre-Alpha)
+* Application Development Courses
+  * C# (NAFP)
+* General Pages
+  * Login/Signup Page (NAFP)
 
 ## Version History
 
@@ -68,6 +91,23 @@ CSS-ESS-B1.8 | Section 7
   * Netlify
 * **Operating Systems**
   * Windows Server
+
+## Project Services
+
+* Form Handlers 
+  * Netlify
+* Connections
+  * Zapier
+* Mailing
+  * Mailchimp
+
+## Contributing
+
+If you wish to contribute, please contact [NeoSki](https://linktr.ee/NeoSki).
+
+## Feedback
+
+Feedback should be directed at the "issues" panel above. Any feedback is helpful to us so long as it's constructive and useful.
 
 ## Project Contributors
 
@@ -286,3 +326,5 @@ CSS-ESS-B1.8 | Section 7
 You are free to fork this project and change it into any project of your choice so long as it does not enter into direct competition with the LearnToCode website stored in this repository.
 
 When forking this repository, it is subject to the terms of the GNU General Public License v3.0 bestowed upon this work.
+
+All CSS is commented for your convenience and pages follow a standardised structure.
