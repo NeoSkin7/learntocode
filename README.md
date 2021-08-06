@@ -48,27 +48,32 @@ CSS-ESS-B1.8 | Section 7
 
 ## Project Technologies
 
-* Wikis
+* **Wikis**
   * MediaWiki (1.37.0-wmf.16)
-* CDN
+* **CDN**
   * Netlify
-* JavaScript Libraries
+* **JavaScript Libraries**
   * Prism
   * MobX
   * jQuery Migrate (3.3.2)
   * jQuery (3.6.0)
-* Web-Server Extensions
+* **Web-Server Extensions**
   * OpenSSL (1.1.1j)
-* Web Servers
+* **Web Servers**
   * Apache (2.4.46)
   * Apache Traffic Server (8.0.8)
-* Programming Languages
+* **Programming Languages**
   * PHP (8.0.3)
-* PaaS
+* **PaaS**
   * Netlify
-* Operating Systems
+* **Operating Systems**
   * Windows Server
 
 ## Project Contributors
 
 * **NeoSki** - Head of Development
+
+## Instructions For Forking
+
+You are free to fork this project and change it into any project of your choice so long as it does not enter into direct competition with the LearnToCode website stored in this repository.
+
