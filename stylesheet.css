@@ -150,6 +150,11 @@ pre {
   margin-right: 1.5em;
   font-size: 1.1em;
   width: 55vw;
+  white-space: pre-wrap;
+  white-space: -moz-pre-wrap;
+  white-space: -pre-wrap;
+  white-space: -o-pre-wrap;
+  word-wrap: break-word;
 }
 
 code {
