@@ -174,8 +174,6 @@ table {
 
 table td {
   min-width: 10em;
-  height: 10em;
-  text-align: center;
   background-color: #202027;
   border: solid .1em #adadad;
   margin: 0;
@@ -532,6 +530,15 @@ main .cover-image {
 
 .page-links .beta a:hover, .page-links .beta a:focus, .page-links .beta a:active {
   color: #e2aa42;
+}
+
+.square table td {
+  min-width: 10em;
+  height: 10em;
+  text-align: center;
+  background-color: #202027;
+  border: solid .1em #adadad;
+  margin: 0;
 }
 
 /* Responsive Styles */
