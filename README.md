@@ -23,7 +23,7 @@ NAFP - Not Available for Public
 
 * Website Development Courses
   * HTML Essentials (Release Preview)
-  * CSS Essentials (Pre-Alpha)
+  * CSS Essentials (Alpha)
 * Application Development Courses
   * C# (NAFP)
 * General Pages
@@ -68,6 +68,7 @@ CSS-ESS-B1.6.1 | Section 5
 CSS-ESS-B1.7 | Section 6
 CSS-ESS-B1.7.1 | Section 6
 CSS-ESS-B1.8 | Section 7
+CSS-ESS-B1.9 | Section 8 & Finish
 
 ## Project Technologies
 
@@ -199,6 +200,8 @@ Feedback should be directed at the "issues" panel above. Any feedback is helpful
     * css-essentials **DIR**
       * contents **DIR**
         * index.html
+      * finish **DIR**
+        * index.html
       * introduction **DIR**
         * index.html
       * preface **DIR**
@@ -236,6 +239,8 @@ Feedback should be directed at the "issues" panel above. Any feedback is helpful
           * index.html
         * index.html
       * section-07 **DIR**
+        * index.html
+      * section-08 **DIR**
         * index.html
       * index.html
     * html-essentials **DIR**
