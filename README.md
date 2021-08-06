@@ -2,6 +2,8 @@
 
 Welcome to the home of the LearnToCode project storage, this is where all files are stored and technical documentation is filed.
 
+Records below begun on 05/08/2021 (UTC) when website was migrated to new servers.
+
 If you wish to contribute, please contact [NeoSki](https://linktr.ee/NeoSki).
 
 ## Version History
@@ -44,6 +46,29 @@ CSS-ESS-B1.7 | Section 6
 CSS-ESS-B1.7.1 | Section 6
 CSS-ESS-B1.8 | Section 7
 
+## Project Technologies
+
+* Wikis
+  * MediaWiki (1.37.0-wmf.16)
+* CDN
+  * Netlify
+* JavaScript Libraries
+  * Prism
+  * MobX
+  * jQuery Migrate (3.3.2)
+  * jQuery (3.6.0)
+* Web-Server Extensions
+  * OpenSSL (1.1.1j)
+* Web Servers
+  * Apache (2.4.46)
+  * Apache Traffic Server (8.0.8)
+* Programming Languages
+  * PHP (8.0.3)
+* PaaS
+  * Netlify
+* Operating Systems
+  * Windows Server
+
 ## Project Contributors
 
-NeoSki - Head of Development
+* **NeoSki** - Head of Development
