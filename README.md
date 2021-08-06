@@ -314,6 +314,7 @@ Feedback should be directed at the "issues" panel above. Any feedback is helpful
     * index.html
   * 404.html
   * LICENSE
+  * CONTRIBUTING
   * README
   * code.css
   * index.html
