@@ -1,5 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target" : { "namespace": "android_app", "package_name": "learntocode.twa",
-                   "sha256_cert_fingerprints": ["CF:B7:A7:96:C5:34:1B:2C:19:62:99:6E:93:36:6A:36:12:A6:C5:0D:2F:12:89:80:0B:87:8A:BA:50:AD:14:0A"] }
-    }]
